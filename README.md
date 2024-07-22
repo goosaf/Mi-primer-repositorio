@@ -1,2 +1,2 @@
 # Mi-primer-repositorio
-aprender a programar
+repositorio para aprender a programar
